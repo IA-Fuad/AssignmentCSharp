@@ -1,0 +1,13 @@
+C:\Users\ishti\source\repos\AssignmentCSharp\bin\Debug\netcoreapp3.1\AssignmentCSharp.exe
+C:\Users\ishti\source\repos\AssignmentCSharp\bin\Debug\netcoreapp3.1\AssignmentCSharp.deps.json
+C:\Users\ishti\source\repos\AssignmentCSharp\bin\Debug\netcoreapp3.1\AssignmentCSharp.runtimeconfig.json
+C:\Users\ishti\source\repos\AssignmentCSharp\bin\Debug\netcoreapp3.1\AssignmentCSharp.runtimeconfig.dev.json
+C:\Users\ishti\source\repos\AssignmentCSharp\bin\Debug\netcoreapp3.1\AssignmentCSharp.dll
+C:\Users\ishti\source\repos\AssignmentCSharp\bin\Debug\netcoreapp3.1\AssignmentCSharp.pdb
+C:\Users\ishti\source\repos\AssignmentCSharp\obj\Debug\netcoreapp3.1\AssignmentCSharp.csprojAssemblyReference.cache
+C:\Users\ishti\source\repos\AssignmentCSharp\obj\Debug\netcoreapp3.1\AssignmentCSharp.AssemblyInfoInputs.cache
+C:\Users\ishti\source\repos\AssignmentCSharp\obj\Debug\netcoreapp3.1\AssignmentCSharp.AssemblyInfo.cs
+C:\Users\ishti\source\repos\AssignmentCSharp\obj\Debug\netcoreapp3.1\AssignmentCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ishti\source\repos\AssignmentCSharp\obj\Debug\netcoreapp3.1\AssignmentCSharp.dll
+C:\Users\ishti\source\repos\AssignmentCSharp\obj\Debug\netcoreapp3.1\AssignmentCSharp.pdb
+C:\Users\ishti\source\repos\AssignmentCSharp\obj\Debug\netcoreapp3.1\AssignmentCSharp.genruntimeconfig.cache
